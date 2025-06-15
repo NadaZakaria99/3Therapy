@@ -35,11 +35,11 @@ A Decentralized Autonomous Organization (DAO) for Mental Health - combining AI t
 ## 🚀 Quick Start
 - **Prerequisites**
   
-  ``` pip install web3 google-generativeai langchain langchain-google-genai chromadb ```
+  ``` pip install -r requirements.txt ```
 - **Environment Setup**
   - Get Google AI API key from Google AI Studio
   - Replace YOUR_API_KEY in the code
-- **Run the Application**
+- **Add the data file path and Run the Application**
 ## 💡 How It Works
 - **AI-Powered Support**
   - Compassionate conversational AI trained on mental health best practices
